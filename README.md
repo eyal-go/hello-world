@@ -1,3 +1,3 @@
 # hello-world
 Getting familiar with GitHub
-I love lasagna 
+I love pasta and getting ice cream from McDonalds
